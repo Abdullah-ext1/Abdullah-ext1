@@ -1,9 +1,10 @@
 <h1 align="center">Hi I'm Abdullah Khan!</h1>
-
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bc/ef/18/bcef18dfbb85eacac8ff8b5419d29a69.gif" alt="Banner" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212746986-bdcf6f5f-5dcd-4d8d-9e4b-5e4969e65b43.png" alt="Banner" width="100%" />
 </p>
+
+
+
 
 ---
 
