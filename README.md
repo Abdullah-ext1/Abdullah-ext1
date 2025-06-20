@@ -1,7 +1,7 @@
-<h1 align="center">Hi I'm Abdullah Khan!</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746986-bdcf6f5f-5dcd-4d8d-9e4b-5e4969e65b43.png" alt="Banner" width="100%" />
+  <img src="banner.jpg" alt="Banner" width="100%" />
 </p>
+<h1 align="center">Hi I'm Abdullah Khan!</h1>
 
 
 
@@ -23,15 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahKhan&theme=tokyonight" />
 </p>
 
 ---
