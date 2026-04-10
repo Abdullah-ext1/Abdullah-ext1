@@ -7,7 +7,6 @@
 
 ---
 
-- 🌱 I’m currently learning and building with *HTML, CSS, JavaScript, C & Python*
 - 🧠 Exploring the full stack world — frontend to backend
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdullah-khan-6747252b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
